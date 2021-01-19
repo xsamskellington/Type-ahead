@@ -1,6 +1,6 @@
 html{
     box-sizing: border-box;
-    background-image: url('https://wallpaperaccess.com/full/805073.jpg');
+    background-color: #ffcdd8;
     font-family: 'helvetica neue';
     font-size: 20px;
     font-weight: 200;
@@ -59,7 +59,7 @@ span.population {
   }
 
 .hl{
-    background: #ffc600;
+    background: #e0c1ef;
   }
 
   @media only screen and (max-width: 480px){
